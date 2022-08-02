@@ -14,6 +14,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=H8Of2IIAAAAJ&hl) profile
 
 ***
 ## 2022
