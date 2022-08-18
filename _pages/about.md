@@ -11,11 +11,11 @@ redirect_from:
 {% include base_path %}
 
 # About Me
-I'm a senior research scientist in [Clova Voice](https://clova.ai/ko) at [Naver Corporation](https://www.navercorp.com/en) (from Mar 2017) and lead the DNN TTS team. I'm also an adjunct professor in [Artificial Intelligence Institute](https://aiis.snu.ac.kr/eng/) at [Seoul National University](https://en.snu.ac.kr/index.html) (from Aug 2022).
+I'm a senior research scientist in [Clova Voice](https://clova.ai/ko) at [Naver Corporation](https://www.navercorp.com/en), Seongnam, Korea (from Mar 2017) and lead the DNN TTS team. I'm also an adjunct professor in [Artificial Intelligence Institute](https://aiis.snu.ac.kr/eng/) at [Seoul National University](https://en.snu.ac.kr/index.html), Seoul, Korea (from Aug 2022).
 
-I received my Ph.D. degree in department of Electrical and Electronics at [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp). During my Ph.D., I served my internships at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) and [Qualcomm Technologies Inc.](https://www.qualcomm.com/company?#about).
+I received my Ph.D. degree in department of Electrical and Electronics at [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp), Seoul, Korea. During my Ph.D., I served my internships at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), Beijing, China and [Qualcomm Technologies Inc.](https://www.qualcomm.com/company?#about), San-Diego, CA.
 
-My research interests include speech synthesis and its real-world applications. Specifically, I develop a hybrid TTS system combining deep learning and unit-selection TTS models for cloud-based products such as [Clova AI speaker](https://blog.naver.com/clova_ai/221409341851), [Clova Dubbing](https://clovadubbing.naver.com/), [Maps navigation](https://blog.naver.com/naver_map/222109060982), and [News anchor](https://blog.naver.com/clova_ai/221981676372).
+My research interests include speech synthesis and its real-world applications. Specifically, I develop a hybrid TTS system combining deep learning and unit-selection TTS models for cloud-based products such as [Clova AI speaker](https://blog.naver.com/clova_ai/221409341851), [Clova Dubbing](https://clovadubbing.naver.com/), [Naver Maps navigation](https://blog.naver.com/naver_map/222109060982), and [Naver News anchor](https://blog.naver.com/clova_ai/221981676372).
 
 If you are interested in me, feel free to [contact me]({{ base_path }}/contacts.html).
 
