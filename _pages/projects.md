@@ -7,19 +7,19 @@ author_profile: true
 
 {% include base_path %}
 
-# Projects
-
 ## Naver Corp.
 
 <span style="color:gray"><small>Mar 2017 - present</small></span>  
 **Hybrid TTS combining deep learning and unit-selection models**  
-- <small>Role: Management, research and development of DNN TTS models [Python]</small>
-- <small>Related services</small>
-  - <small>Showhost's voice for [Naver Shopping](https://shopping.naver.com/), May 2021 - present</small>
-  - <small>Representative's voice for [Clova Contact Center](https://clova.ai/aicontactcenter), May 2019 - present</small>
-  - <small>Navigation voice for [Naver Map](https://map.naver.com/), Jan 2019 - Sep 2020</small>
-  - <small>[Sangjin Oh's (Korean newscaster)](https://blog.naver.com/PostView.nhn?blogId=clova_ai&logNo=221981676372&redirect=Dlog&widgetTypeCall=true) TTS voice for [Naver News](https://news.naver.com/), Oct 2019 - May 2020</small>
-  - <small>[In-Na Yoo's (Korean actress)](http://www.ajudaily.com/view/20181130141757396) TTS voice for [Clova AI speaker](https://clova.ai/ko), Apr 2018 - Dec 2018</small>
+<small>
+&nbsp;&nbsp;&bull; Role: Management, research and development of DNN TTS models  
+&nbsp;&nbsp;&bull; Related services  
+&nbsp;&nbsp;&nbsp;&nbsp;&middot; Showhost's voice for [Naver Shopping](https://shopping.naver.com/), May 2021 - present  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot; Representative's voice for [Clova Contact Center](https://clova.ai/aicontactcenter), May 2019 - present  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot; Navigation voice for [Naver Map](https://map.naver.com/), Jan 2019 - Sep 2020  
+&nbsp;&nbsp;&nbsp;&nbsp;&middot; [Sangjin Oh's (Korean newscaster)](https://blog.naver.com/PostView.nhn?blogId=clova_ai&logNo=221981676372&redirect=Dlog&widgetTypeCall=true) TTS voice for [Naver News](https://news.naver.com/), Oct 2019 - May 2020  
+&nbsp;&nbsp;&nbsp;&nbsp;&middot; [In-Na Yoo's (Korean actress)](http://www.ajudaily.com/view/20181130141757396) TTS voice for [Clova AI speaker](https://clova.ai/ko), Apr 2018 - Dec 2018  
+</small>
 
 ***
 ## Graduate school
