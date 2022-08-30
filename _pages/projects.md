@@ -41,37 +41,50 @@ author_profile: true
 ## Yonsei University, Seoul, Korea
 
 <span style="color:gray"><small>Nov 2016 - Mar 2017</small></span>  
-**Development of Glottal DNN vocoder for speech synthesis systems**, Naver Corp., Korea  
+**Development of Glottal DNN vocoder for speech synthesis systems**  
 <small>
+  &nbsp;&nbsp;&bull; Naver Corp., Korea  
   &nbsp;&nbsp;&bull; Role: Research and development of Glottal DNN vocoder for DNN-based TTS systems
 </small>
 
 <span style="color:gray"><small>Mar 2015 - Feb 2016</small></span>  
-**Deep neural network-based speaker-adaptive text-to-speech**, ReadSpeaker (Voiceware), Korea  
+**Deep neural network-based speaker-adaptive text-to-speech**
 <small>
+  &nbsp;&nbsp;&bull; ReadSpeaker (Voiceware), Korea  
   &nbsp;&nbsp;&bull; Role: Research and development of DNN-based TTS acoustic models
 </small>
 
 <span style="color:gray"><small>Jun 2015 - Aug 2015</small></span>  
-**Low bit-rate speech codec**, Line Corp., Korea  
+**Low bit-rate speech codec**  
 <small>
+  &nbsp;&nbsp;&bull; Line Corp., Korea  
   &nbsp;&nbsp;&bull; Role: Implementation of low bit-rate MELP codec
 </small>
 
 <span style="color:gray"><small>Mar 2014 - Feb 2015</small></span>  
-**Statistical parametric speech synthesis**, ReadSpeaker (Voiceware), Korea  
+**Statistical parametric speech synthesis**  
 <small>
+  &nbsp;&nbsp;&bull; ReadSpeaker (Voiceware), Korea  
   &nbsp;&nbsp;&bull; Role: Research and development of parametric vocoder for DNN-based TTS systems
 </small>
 
 <span style="color:gray"><small>Feb 2012 - Dec 2014</small></span>  
-**Multi-model bio interface and recognition**, Samsung Electronics, Korea   
+**Multi-model bio interface and recognition**  
 <small>
+  &nbsp;&nbsp;&bull; Samsung Electronics, Korea   
   &nbsp;&nbsp;&bull; Role: Research and development of speech enhancement for pathological voices
 </small>
 
-<span style="color:gray"><small>Aug 2011 - Jan 2012</small></span>  
-**Fixed point implementation of MPEG-D USAC decoder**, LG Electronics, Korea   
+<span style="color:gray"><small>Nov 2013 - Jun 2014</small></span>  
+**Waveform generation for statistical parametric speech synthesis**  
 <small>
+  &nbsp;&nbsp;&bull; Microsoft Research, Korea   
+  &nbsp;&nbsp;&bull; Role: Research and development of DNN-based TTS models  
+</small>
+
+<span style="color:gray"><small>Aug 2011 - Jan 2012</small></span>  
+**Fixed point implementation of MPEG-D USAC decoder**   
+<small>
+  &nbsp;&nbsp;&bull; LG Electronics, Korea  
   &nbsp;&nbsp;&bull; Role: Fixed-point implementation
 </small>
