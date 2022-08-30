@@ -35,7 +35,7 @@ author_profile: true
 <small>
 &nbsp;&nbsp;&bull; Role: Development of audiobook generation tool  
 &nbsp;&nbsp;&bull; Related services  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot; [Clova Dubbing x 인문 360](https://inmun360.culture.go.kr/content/636.do?mode=view&page=&cid=2372663)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot; [Clova Dubbing x Inmun 360](https://inmun360.culture.go.kr/content/636.do?mode=view&page=&cid=2372663)  
 </small>
 
 ***
