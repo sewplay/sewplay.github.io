@@ -5,61 +5,66 @@ permalink: /projects/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
+{% include base_path %}
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+# Projects
 
-{% endif %}
+## Naver Corp.
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
-
-***
-## 2022
-- Data-selective TTS augmentation
-  [[Slides](https://sewplay.github.io/files/talks/2022/20220712_naver_tts.pdf)]  
-  <small>Naver Engineering Day, Jul 2022</small>  
-
-- Voice synthesis and applications
-  [[Slides](https://sewplay.github.io/files/talks/2022/20220506_kaist_snu_tts.pdf)]  
-  <small>KAIST and SNU, Apr 2022</small>  
+<span style="color:gray"><small>Mar 2017 - present</small></span>  
+**Hybrid TTS combining deep learning and unit-selection models**  
+- <small>Role: Management, research and development of DNN TTS models [Python]</small>
+- <small>Related services</small>
+  - <small>Showhost's voice for [Naver Shopping](https://shopping.naver.com/), May 2021 - present</small>
+  - <small>Representative's voice for [Clova Contact Center](https://clova.ai/aicontactcenter), May 2019 - present</small>
+  - <small>Navigation voice for [Naver Map](https://map.naver.com/), Jan 2019 - Sep 2020</small>
+  - <small>[Sangjin Oh's (Korean newscaster)](https://blog.naver.com/PostView.nhn?blogId=clova_ai&logNo=221981676372&redirect=Dlog&widgetTypeCall=true) TTS voice for [Naver News](https://news.naver.com/), Oct 2019 - May 2020</small>
+  - <small>[In-Na Yoo's (Korean actress)](http://www.ajudaily.com/view/20181130141757396) TTS voice for [Clova AI speaker](https://clova.ai/ko), Apr 2018 - Dec 2018</small>
 
 ***
-## 2021
-- Introduction to text-to-speech
-  [[Slides](https://sewplay.github.io/files/talks/2021/20210422_naver_tts.pdf)]  
-  <small>Naver Engineering Day, Apr 2021</small>  
+## Graduate school
 
-- Deep learning-based text-to-speech
-  [[Slides](https://sewplay.github.io/files/talks/2021/20210405_ysu_ku_tts.pdf)]  
-  <small>Yonsei Univ. and Korea Univ., Apr 2021</small>  
+<span style="color:gray"><small>Nov 2016 - Mar 2017</small></span>  
+**Development of Glottal DNN vocoder for speech synthesis systems**, Naver Corp., Korea  
+<small>
+  &nbsp;&nbsp;&bull; Role: Research and development of Glottal DNN vocoder for DNN-based TTS systems
+  [Matlab]
+  [[paper](https://sewplay.github.io/files/papers/2018/icassp_0005669.pdf)]
+</small>
 
-***
-## 2020
-- Clova AI: Text-to-speech technology
-  [[Slides](https://sewplay.github.io/files/talks/2020/20201118_ysu_tts.pdf)]  
-  <small>Yonsei Univ., Nov 2020</small>  
+<span style="color:gray"><small>Mar 2015 - Feb 2016</small></span>  
+**Deep neural network-based speaker-adaptive text-to-speech**, ReadSpeaker (Voiceware), Korea  
+<small>
+  &nbsp;&nbsp;&bull; Role: Research and development of DNN-based TTS acoustic models
+  [Matlab]
+</small>
 
-- Parallel WaveGAN
-  [[Slides](https://sewplay.github.io/files/talks/2020/20201016_naver_pwg.pdf)]  
-  <small>Naver Engineering Day, Oct 2020</small>  
+<span style="color:gray"><small>Jun 2015 - Aug 2015</small></span>  
+**Low bit-rate speech codec**, Line Corp., Korea  
+<small>
+  &nbsp;&nbsp;&bull; Role: Implementation of low bit-rate MELP codec
+  [C/C++]
+</small>
 
-***
-## 2018
-- Clova voice: From unit-selection to deep learning-based TTS  
-  <small>ASK Conference, Aug 2018</small>  
+<span style="color:gray"><small>Mar 2014 - Feb 2015</small></span>  
+**Statistical parametric speech synthesis**, ReadSpeaker (Voiceware), Korea  
+<small>
+  &nbsp;&nbsp;&bull; Role: Research and development of parametric vocoder for DNN-based TTS systems
+  [Matlab]
+</small>
 
-- Speaker-adaptive WaveNet
-  [[Slides](https://sewplay.github.io/files/talks/2018/20181127_naver_wn.pdf)]  
-  <small>Naver Engineering Day, Apr 2018</small>  
+<span style="color:gray"><small>Feb 2012 - Dec 2014</small></span>  
+**Multi-model bio interface and recognition**, Samsung Electronics, Korea   
+<small>
+  &nbsp;&nbsp;&bull; Role: Research and development of speech enhancement for pathological voices
+  [Matlab]
+  [[paper](https://sewplay.github.io/files/papers/2013/apsipa_06694125.pdf)]  
+</small>
 
-- Speaker-adaptive text-to-speech
-  [[Slides](https://sewplay.github.io/files/talks/2018/20180330_colloquium_tts.pdf)]  
-  <small>Naver AI Colloquium, Mar 2018</small>  
-
-***
-## 2015
-- Speech synthesis: Improved time-frequency trajectory excitation
-  [[Slides](https://sewplay.github.io/files/talks/2015/20151210_beijinguniv_tts.pdf)]  
-  <small>Beijing Univ., Dec 2015</small>  
+<span style="color:gray"><small>Aug 2011 - Jan 2012</small></span>  
+**Fixed point implementation of MPEG-D USAC decoder**, LG Electronics, Korea   
+<small>
+  &nbsp;&nbsp;&bull; Role: Fixed-point implementation
+  [C/C++]
+  [[paper](https://sewplay.github.io/files/papers/2014/dsp_06900810.pdf)]  
+</small>
