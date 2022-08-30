@@ -27,7 +27,7 @@ author_profile: true
 <small> 
 &nbsp;&nbsp;&bull; Role: Management, research and development of DNN TTS models  
 &nbsp;&nbsp;&bull; Related services  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot; [Clova VoiceMaker]([https://inmun360.culture.go.kr/content/636.do?mode=view&page=&cid=2372663](https://clovadubbing.naver.com/voicemaker))  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot; [Clova VoiceMaker](https://clovadubbing.naver.com/voicemaker)  
 </small>
 
 <span style="color:gray"><small>Sep 2021 - May 2022</small></span>  
