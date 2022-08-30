@@ -7,12 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
+***
 ## Naver Corp., Seongnam, Korea
 
 <span style="color:gray"><small>Mar 2017 - present</small></span>  
 **Hybrid TTS combining deep learning and unit-selection models**  
 <small>
-&nbsp;&nbsp;&bull; Management, research and development of DNN TTS models  
+&nbsp;&nbsp;&bull; Role: Management, research and development of DNN TTS models  
 &nbsp;&nbsp;&bull; Related services  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot; [Showhost](https://view.shoppinglive.naver.com/replays/566360?fm=shoppinglive&sn=home) voice for [Naver Shopping](https://shopping.naver.com/), May 2021 - present  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot; Representative voice for [Clova Contact Center](https://clova.ai/aicontactcenter), May 2019 - present  
@@ -24,7 +25,7 @@ author_profile: true
 <span style="color:gray"><small>May 2022 - present</small></span>  
 **Development of automatic TTS modeling with smartphone recordings**  
 <small> 
-&nbsp;&nbsp;&bull; Management, research and development of DNN TTS models  
+&nbsp;&nbsp;&bull; Role: Management, research and development of DNN TTS models  
 &nbsp;&nbsp;&bull; Related services  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot; [Clova VoiceMaker]([https://inmun360.culture.go.kr/content/636.do?mode=view&page=&cid=2372663](https://clovadubbing.naver.com/voicemaker))  
 </small>
@@ -32,7 +33,7 @@ author_profile: true
 <span style="color:gray"><small>Sep 2021 - May 2022</small></span>  
 **TTS-based audiobook generation**  
 <small>
-&nbsp;&nbsp;&bull; Development of audiobook generation tool  
+&nbsp;&nbsp;&bull; Role: Development of audiobook generation tool  
 &nbsp;&nbsp;&bull; Related services  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot; [Clova Dubbing x 인문 360](https://inmun360.culture.go.kr/content/636.do?mode=view&page=&cid=2372663)  
 </small>
@@ -48,7 +49,7 @@ author_profile: true
 </small>
 
 <span style="color:gray"><small>Mar 2015 - Feb 2016</small></span>  
-**Deep neural network-based speaker-adaptive text-to-speech**
+**Deep neural network-based speaker-adaptive text-to-speech**  
 <small>
   &nbsp;&nbsp;&bull; ReadSpeaker (Voiceware), Korea  
   &nbsp;&nbsp;&bull; Role: Research and development of DNN-based TTS acoustic models
