@@ -47,7 +47,8 @@ redirect_from:
   &nbsp;&nbsp;&bull; Mentor: Dr. [Frank Soong](https://www.researchgate.net/profile/Frank-Soong)  
 </small>
 
-<small>[[See more]]({{ base_path }}/projects/)</small>
+<small>[[See more]]({{ base_path }}/projects/)</small>  
+
 ***
 # Academic Activites
 **Reviewer**  
