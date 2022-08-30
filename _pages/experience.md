@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 # Education
-<span style="color:gray"><small>Sep 2010 - Feb 2029</small></span>  
+<span style="color:gray"><small>Sep 2010 - Feb 2019</small></span>  
 **Combined M.S. and Ph.D., Electrical and Electronic Engineering, [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp), Seoul, Korea**  
 <small>
   &nbsp;&nbsp;&bull; Dissertation: Improved time-frequency trajectory excitation vocoder for deep learning-based statistical parametric speech synthesis system  
