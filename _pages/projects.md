@@ -12,13 +12,13 @@ author_profile: true
 <span style="color:gray"><small>Mar 2017 - present</small></span>  
 **Hybrid TTS combining deep learning and unit-selection models**  
 <small>
-&nbsp;&nbsp;&bull; Role: Management, research and development of DNN TTS models  
+&nbsp;&nbsp;&bull; Management, research and development of DNN TTS models  
 &nbsp;&nbsp;&bull; Related services  
-&nbsp;&nbsp;&nbsp;&nbsp;&middot; Showhost's voice for [Naver Shopping](https://shopping.naver.com/), May 2021 - present  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot; Representative's voice for [Clova Contact Center](https://clova.ai/aicontactcenter), May 2019 - present  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot; Navigation voice for [Naver Map](https://map.naver.com/), Jan 2019 - Sep 2020  
-&nbsp;&nbsp;&nbsp;&nbsp;&middot; [Sangjin Oh's (Korean newscaster)](https://blog.naver.com/PostView.nhn?blogId=clova_ai&logNo=221981676372&redirect=Dlog&widgetTypeCall=true) TTS voice for [Naver News](https://news.naver.com/), Oct 2019 - May 2020  
-&nbsp;&nbsp;&nbsp;&nbsp;&middot; [In-Na Yoo's (Korean actress)](http://www.ajudaily.com/view/20181130141757396) TTS voice for [Clova AI speaker](https://clova.ai/ko), Apr 2018 - Dec 2018  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot; [Showhost](https://view.shoppinglive.naver.com/replays/566360?fm=shoppinglive&sn=home) voice for [Naver Shopping](https://shopping.naver.com/), May 2021 - present  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot; Representative voice for [Clova Contact Center](https://clova.ai/aicontactcenter), May 2019 - present  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot; [Navigation](https://blog.naver.com/naver_map/222109060982) voice for [Naver Map](https://map.naver.com/), Jan 2019 - Sep 2020  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot; [Sangjin Oh](https://blog.naver.com/clova_ai/221981676372)'s (Korean newscaster) voice for [Naver News](https://news.naver.com/), Oct 2019 - May 2020  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot; [In-Na Yoo](http://www.ajudaily.com/view/20181130141757396)'s (Korean actress) voice for [Clova AI speaker](https://clova.ai/ko), Apr 2018 - Dec 2018  
 </small>
 
 ***
