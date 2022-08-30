@@ -19,7 +19,7 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot; Representative voice for [Clova Contact Center](https://clova.ai/aicontactcenter), May 2019 - present  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot; [Navigation](https://blog.naver.com/naver_map/222109060982) voice for [Naver Map](https://map.naver.com/), Jan 2019 - Sep 2020  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot; [Sangjin Oh](https://blog.naver.com/clova_ai/221981676372)'s (Korean newscaster) voice for [Naver News](https://news.naver.com/), Oct 2019 - May 2020  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot; [In-Na Yoo](http://www.ajudaily.com/view/20181130141757396)'s (Korean actress) voice for [Clova AI speaker](https://clova.ai/ko), Apr 2018 - Dec 2018  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot; [In-Na Yoo](http://www.ajudaily.com/view/20181130141757396)'s (Korean actress) voice for [Clova AI speaker](https://clova.ai/ko/smarthome/), Apr 2018 - Dec 2018  
 </small>
 
 <span style="color:gray"><small>May 2022 - present</small></span>  
