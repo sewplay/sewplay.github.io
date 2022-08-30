@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Naver Corp.
+## Naver Corp., Seongnam, Korea
 
 <span style="color:gray"><small>Mar 2017 - present</small></span>  
 **Hybrid TTS combining deep learning and unit-selection models**  
@@ -21,8 +21,24 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot; [In-Na Yoo](http://www.ajudaily.com/view/20181130141757396)'s (Korean actress) voice for [Clova AI speaker](https://clova.ai/ko), Apr 2018 - Dec 2018  
 </small>
 
+<span style="color:gray"><small>May 2022 - present</small></span>  
+**Development of automatic TTS modeling with smartphone recordings**  
+<small> 
+&nbsp;&nbsp;&bull; Management, research and development of DNN TTS models  
+&nbsp;&nbsp;&bull; Related services  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot; [Clova VoiceMaker]([https://inmun360.culture.go.kr/content/636.do?mode=view&page=&cid=2372663](https://clovadubbing.naver.com/voicemaker))  
+</small>
+
+<span style="color:gray"><small>Sep 2021 - May 2022</small></span>  
+**TTS-based audiobook generation**  
+<small>
+&nbsp;&nbsp;&bull; Development of audiobook generation tool  
+&nbsp;&nbsp;&bull; Related services  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot; [Clova Dubbing x 인문 360](https://inmun360.culture.go.kr/content/636.do?mode=view&page=&cid=2372663)  
+</small>
+
 ***
-## Graduate school
+## Yonsei University, Seoul, Korea
 
 <span style="color:gray"><small>Nov 2016 - Mar 2017</small></span>  
 **Development of Glottal DNN vocoder for speech synthesis systems**, Naver Corp., Korea  
