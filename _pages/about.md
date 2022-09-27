@@ -32,11 +32,11 @@ If you are interested in me, feel free to [contact me]({{ base_path }}/contacts.
   <small>Proc. INTERSPEECH, 2022, pp. 1941-1945</small>  
   
 - Language model-based emotion prediction methods for emotional speech synthesis systems [[paper](https://arxiv.org/abs/2204.10020)][[demo](https://christophyoon.github.io/lmemotiontts/)]  
-  <small>Hyun-Wook Yoon, Ohsung Kwon, Hoyeon Lee, Ryuichi Yamamoto, <strong style="color:orange">Eunwoo Song</strong>, Jae-Min Kim, Min-Jae Hwang</small>  
+  <small>Hyun-Wook Yoon, Ohsung Kwon, Hoyeon Lee, Ryuichi Yamamoto, <strong style="color:orange">Eunwoo Song</strong>, Jae-Min Kim, Min-Jae Hwang</small>   
   <small>Proc. INTERSPEECH, 2022, pp. 1941-1945</small>  
   
 - Cross-speaker emotion transfer for low-resource text-to-speech using non-parallel voice conversion with pitch-shift data augmentation [[paper](https://arxiv.org/abs/2206.15067)][[demo](https://ryojerky.github.io/demo_vc-tts-ps/)]  
-  <small>Ryo Terashima, Ryuichi Yamamoto, <strong style="color:orange">Eunwoo Song</strong>, Yuma Shirahata, Hyun-Wook Yoon, Jae-Min Kim, Kentaro Tachibana</small> 
+  <small>Ryo Terashima, Ryuichi Yamamoto, <strong style="color:orange">Eunwoo Song</strong>, Yuma Shirahata, Hyun-Wook Yoon, Jae-Min Kim, Kentaro Tachibana</small>  
   <small>Proc. INTERSPEECH, 2022, pp. 1941-1945</small>   
   
   <small>[[See more]]({{ base_path }}/publications/)</small>
