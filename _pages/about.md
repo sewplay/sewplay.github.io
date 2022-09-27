@@ -23,17 +23,21 @@ If you are interested in me, feel free to [contact me]({{ base_path }}/contacts.
 
 ***
 # Recent Publications
+- HierSpeech: Bridging the gap between text and speech by hierarchical variational inference using self-supervised representations for speech synthesis  
+  <small>Sang-Hoon Lee, Seung-Bin Kim, Ji-Hyun Lee, <strong style="color:orange">Eunwoo Song</strong>, Min-Jae Hwang, Seong-Whan Lee</small>  
+  <small>Accepted to [NeurIPS 2022](https://neurips.cc/)</small>  
+
 - TTS-by-TTS 2: Data-selective augmentation for neural speech synthesis using ranking support vector machine with variational autoencoder [[paper](https://arxiv.org/abs/2206.14984)][[demo](https://sewplay.github.io/demos/txt2/)]  
   <small><strong style="color:orange">Eunwoo Song</strong>, Ryuichi Yamamoto, Ohsung Kwon, Chan-Ho Song, Min-Jae Hwang, Suhyeon Oh, Hyun-Wook Yoon, Jin-Seob Kim, Jae-Min Kim</small>  
-  <small>Accepted to [INTERSPEECH 2022](https://interspeech2022.org/)</small>  
+  <small>Proc. INTERSPEECH, 2022, pp. 1941-1945</small>  
   
 - Language model-based emotion prediction methods for emotional speech synthesis systems [[paper](https://arxiv.org/abs/2204.10020)][[demo](https://christophyoon.github.io/lmemotiontts/)]  
   <small>Hyun-Wook Yoon, Ohsung Kwon, Hoyeon Lee, Ryuichi Yamamoto, <strong style="color:orange">Eunwoo Song</strong>, Jae-Min Kim, Min-Jae Hwang</small>  
-  <small>Accepted to [INTERSPEECH 2022](https://interspeech2022.org/)</small>  
+  <small>Proc. INTERSPEECH, 2022, pp. 1941-1945</small>  
   
-- Cross-speaker emotion transfer for low-resource text-to-speech using non-parallel voice conversion with pitch-shift data augmentation [[paper](https://arxiv.org/abs/2206.15067)][[demo](https://ryojerky.github.io/demo_vc-tts-ps/)]
-  <small>Ryo Terashima, Ryuichi Yamamoto, <strong style="color:orange">Eunwoo Song</strong>, Yuma Shirahata, Hyun-Wook Yoon, Jae-Min Kim, Kentaro Tachibana</small>  
-  <small>Accepted to [INTERSPEECH 2022](https://interspeech2022.org/)</small>  
+- Cross-speaker emotion transfer for low-resource text-to-speech using non-parallel voice conversion with pitch-shift data augmentation [[paper](https://arxiv.org/abs/2206.15067)][[demo](https://ryojerky.github.io/demo_vc-tts-ps/)]  
+  <small>Ryo Terashima, Ryuichi Yamamoto, <strong style="color:orange">Eunwoo Song</strong>, Yuma Shirahata, Hyun-Wook Yoon, Jae-Min Kim, Kentaro Tachibana</small> 
+  <small>Proc. INTERSPEECH, 2022, pp. 1941-1945</small>   
   
   <small>[[See more]]({{ base_path }}/publications/)</small>
 
