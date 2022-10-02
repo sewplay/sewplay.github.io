@@ -23,19 +23,19 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   <small>Proc. NeurIPS, 2022 (in press).</small>  
   
 - TTS-by-TTS 2: Data-selective augmentation for neural speech synthesis using ranking support vector machine with variational autoencoder
-[[paper](https://arxiv.org/abs/2206.14984)]
+[[paper](https://sewplay.github.io/files/papers/2022/IS_10134.pdf)]
 [[demo](https://sewplay.github.io/demos/txt2/)]  
   <small><strong style="color:orange">Eunwoo Song</strong>, Ryuichi Yamamoto, Ohsung Kwon, Chan-Ho Song, Min-Jae Hwang, Suhyeon Oh, Hyun-Wook Yoon, Jin-Seob Kim, Jae-Min Kim</small>  
   <small>Proc. INTERSPEECH, 2022, pp. 1941-1945.</small>  
     
 - Language model-based emotion prediction methods for emotional speech synthesis systems
-[[paper](https://arxiv.org/abs/2204.10020)]
+[[paper](https://sewplay.github.io/files/papers/2022/IS_11133.pdf)]
 [[demo](https://christophyoon.github.io/lmemotiontts/)]  
   <small>Hyun-Wook Yoon, Ohsung Kwon, Hoyeon Lee, Ryuichi Yamamoto, <strong style="color:orange">Eunwoo Song</strong>, Jae-Min Kim, Min-Jae Hwang</small>  
   <small>Proc. INTERSPEECH, 2022, pp. 4596-4600.</small>  
   
 - Cross-speaker emotion transfer for low-resource text-to-speech using non-parallel voice conversion with pitch-shift data augmentation
-[[paper](https://arxiv.org/abs/2206.15067)]
+[[paper](https://sewplay.github.io/files/papers/2022/IS_11278.pdf)]
 [[demo](https://ryojerky.github.io/demo_vc-tts-ps/)]  
   <small>Ryo Terashima, Ryuichi Yamamoto, <strong style="color:orange">Eunwoo Song</strong>, Yuma Shirahata, Hyun-Wook Yoon, Jae-Min Kim, Kentaro Tachibana</small>  
   <small>Proc. INTERSPEECH, 2022, pp. 3018-3022.</small>

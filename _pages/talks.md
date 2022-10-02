@@ -17,6 +17,10 @@ author_profile: true
 
 ***
 ## 2022
+- Parallel waveform synthesis
+  [[Slides](https://sewplay.github.io/files/talks/2022/20220913_sr.pdf)]  
+  <small>Samsung Research, Sep 2022</small>  
+ 
 - Data-selective TTS augmentation
   [[Slides](https://sewplay.github.io/files/talks/2022/20220712_naver_tts.pdf)]  
   <small>Naver Engineering Day, Jul 2022</small>  
