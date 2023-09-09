@@ -22,12 +22,19 @@ redirect_from:
 
 ***
 # Work Experience
-<span style="color:gray"><small>Mar 2017 - Present</small></span>  
+<span style="color:gray"><small>Jan 2023 - Present</small></span>  
+**Senior research scientist, Voice team lead, [Naver Cloud](https://navercloudcorp.com/lang/en/), Seongnam, Korea**  
+<small>
+  &nbsp;&nbsp;&bull; Research and development of deep learning-based TTS models
+  &nbsp;&nbsp;&bull; Implementing TTS api for cloud services such as [Clova Voice Pro](https://www.ncloud.com/product/aiService/clovaVoice), [Clova Dubbing](https://clovadubbing.naver.com/), and [Voice Maker](https://clovadubbing.naver.com/voicemaker)   
+  &nbsp;&nbsp;&bull; **<strong style="color:orange">Specialities:</strong>** High-quality neural vocoders and controllable TTS models  
+</small>
+
+<span style="color:gray"><small>Mar 2017 - Dec 2022</small></span>  
 **Senior research scientist, DNN TTS team lead, [Clova Voice](https://clova.ai/ko), [Naver Corp.](https://www.navercorp.com/en), Seongnam, Korea**  
 <small>
   &nbsp;&nbsp;&bull; Research and development of TTS system combining deep learning and unit-selection TTS models  
-  &nbsp;&nbsp;&bull; Implementing cloud-based real-time TTS products for [Clova AI speaker](https://blog.naver.com/clova_ai/221409341851), [Clova Dubbing](https://clovadubbing.naver.com/), [Maps navigation](https://blog.naver.com/naver_map/222109060982), and [News anchor](https://blog.naver.com/clova_ai/221981676372)   
-  &nbsp;&nbsp;&bull; **<strong style="color:orange">Specialities:</strong>** High-quality neural vocoders and controllable TTS models  
+  &nbsp;&nbsp;&bull; Implementing cloud-based real-time TTS products for [Clova AI speaker](https://blog.naver.com/clova_ai/221409341851), [Maps navigation](https://blog.naver.com/naver_map/222109060982), and [News anchor](https://blog.naver.com/clova_ai/221981676372)   
 </small>
 
 <span style="color:gray"><small>Aug 2022 - Present</small></span>  
@@ -53,13 +60,15 @@ redirect_from:
 # Academic Activites
 **Reviewer**  
 <small>
-  &nbsp;&nbsp;&bull; **INTERSPEECH** 2020 - 2022  
-  &nbsp;&nbsp;&bull; **ICASSP** 2021 - 2022  
+  &nbsp;&nbsp;&bull; **Signal Processing Letters** 2023  
+  &nbsp;&nbsp;&bull; **INTERSPEECH** 2020 - 2023  
+  &nbsp;&nbsp;&bull; **ICASSP** 2021 - 2023  
 </small>
 
 ***
 # Honors and Awards
 <small>
+  &nbsp;&nbsp;&bull; **[Innovators Under 35 Korea](https://www.innovatorsunder35.com/the-list/eunwoo-song/)**, MIT Technology Review, Dec 2022  
   &nbsp;&nbsp;&bull; **Ranked No. 2, N Innovation Award 2020**, Naver Corp., Dec 2020  
   &nbsp;&nbsp;&bull; **The Best Paper Award**, APSIPA ASC 2020, Dec 2020  
   &nbsp;&nbsp;&bull; **Ranked No. 1, N Innovation Award 2019**, Naver Corp., Dec 2019  

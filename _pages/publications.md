@@ -17,10 +17,22 @@ author_profile: true
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=H8Of2IIAAAAJ&hl) profile
 
 ***
+## 2023
+
+- Pruning self-attention for zero-shot multi-speaker text-to-speech [[paper](https://sewplay.github.io/files/papers/2023/IS_1301.pdf)][[demo](https://hcy71o.github.io/SparseTTS-demo/)]  
+  <small>Hyungchan Yoon, Changhwan Kim, <strong style="color:orange">Eunwoo Song</strong>, Hyun-Wook Yoon , Hong-Goo Kang</small>  
+  <small>Proc. INTERSPEECH, 2023, pp. 4299-4303.</small>  
+  
+- Period VITS: Variational inference with explicit pitch modeling for end-to-end emotional speech synthesis [[paper](https://sewplay.github.io/files/papers/2023/IS_1301.pdf)][[demo](https://hcy71o.github.io/SparseTTS-demo/)]  
+  <small>Yuma Shirahata, Ryuichi Yamamoto, <strong style="color:orange">Eunwoo Song</strong>, Ryo Terashima, Jae-Min Kim, Kentaro Tachibana</small>  
+  <small>Proc. ICASSP, 2023, pp. 4299-4303.</small>  
+
+
+***
 ## 2022
-- HierSpeech: Bridging the gap between text and speech by hierarchical variational inference using self-supervised representations for speech synthesis  
+- HierSpeech: Bridging the gap between text and speech by hierarchical variational inference using self-supervised representations for speech synthesis [[paper](https://sewplay.github.io/files/papers/2022/neurips_54658.pdf)][[demo](https://sh-lee-prml.github.io/hierspeech-demo/)]  
   <small>Sang-Hoon Lee, Seung-Bin Kim, Ji-Hyun Lee, <strong style="color:orange">Eunwoo Song</strong>, Min-Jae Hwang, Seong-Whan Lee</small>  
-  <small>Proc. NeurIPS, 2022 (in press).</small>  
+  <small>Proc. NeurIPS, 2022, pp. 16624-16636.</small>  
   
 - TTS-by-TTS 2: Data-selective augmentation for neural speech synthesis using ranking support vector machine with variational autoencoder
 [[paper](https://sewplay.github.io/files/papers/2022/IS_10134.pdf)]

@@ -8,9 +8,28 @@ author_profile: true
 {% include base_path %}
 
 ***
+## Naver Cloud, Seongnam, Korea
+
+<span style="color:gray"><small>Nov 2022 - present</small></span>  
+**Development of High-quality TTS api for cloud services**  
+<small> 
+&nbsp;&nbsp;&bull; Role: Management, research and development of DNN TTS models  
+&nbsp;&nbsp;&bull; Related services  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot; [Clova Voice Pro](https://www.ncloud.com/product/aiService/clovaVoice)  
+</small>
+
+<span style="color:gray"><small>May 2022 - present</small></span>  
+**Development of automatic TTS modeling with smartphone recordings**  
+<small> 
+&nbsp;&nbsp;&bull; Role: Management, research and development of DNN TTS models  
+&nbsp;&nbsp;&bull; Related services  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot; [Voice Maker](https://clovadubbing.naver.com/voicemaker)  
+</small>
+
+***
 ## Naver Corp., Seongnam, Korea
 
-<span style="color:gray"><small>Mar 2017 - present</small></span>  
+<span style="color:gray"><small>Mar 2017 - Dec 2023</small></span>  
 **Hybrid TTS combining deep learning and unit-selection models**  
 <small>
 &nbsp;&nbsp;&bull; Role: Management, research and development of DNN TTS models  
@@ -20,14 +39,6 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot; [Navigation](https://blog.naver.com/naver_map/222109060982) voice for [Naver Map](https://map.naver.com/), Jan 2019 - Sep 2020  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot; [Sangjin Oh](https://blog.naver.com/clova_ai/221981676372)'s (Korean newscaster) voice for [Naver News](https://news.naver.com/), Oct 2019 - May 2020  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot; [In-Na Yoo](http://www.ajudaily.com/view/20181130141757396)'s (Korean actress) voice for [Clova AI speaker](https://clova.ai/ko/smarthome/), Apr 2018 - Dec 2018  
-</small>
-
-<span style="color:gray"><small>May 2022 - present</small></span>  
-**Development of automatic TTS modeling with smartphone recordings**  
-<small> 
-&nbsp;&nbsp;&bull; Role: Management, research and development of DNN TTS models  
-&nbsp;&nbsp;&bull; Related services  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot; [Clova VoiceMaker](https://clovadubbing.naver.com/voicemaker)  
 </small>
 
 <span style="color:gray"><small>Sep 2021 - May 2022</small></span>  
