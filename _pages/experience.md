@@ -25,20 +25,20 @@ redirect_from:
 <span style="color:gray"><small>Jan 2023 - Present</small></span>  
 **Senior research scientist, Voice team lead, [Naver Cloud](https://navercloudcorp.com/lang/en/), Seongnam, Korea**  
 <small>
-  &nbsp;&nbsp;&bull; Research and development of deep learning-based TTS models
+  &nbsp;&nbsp;&bull; Research and development of deep learning-based TTS models  
   &nbsp;&nbsp;&bull; Implementing TTS api for cloud services such as [Clova Voice Pro](https://www.ncloud.com/product/aiService/clovaVoice), [Clova Dubbing](https://clovadubbing.naver.com/), and [Voice Maker](https://clovadubbing.naver.com/voicemaker)   
   &nbsp;&nbsp;&bull; **<strong style="color:orange">Specialities:</strong>** High-quality neural vocoders and controllable TTS models  
 </small>
 
+<span style="color:gray"><small>Aug 2022 - Present</small></span>  
+**Adjunct professor, [Artificial Intelligence Institute](https://aiis.snu.ac.kr/eng/), [SNU](https://en.snu.ac.kr/index.html), Seoul, Korea**  
+
 <span style="color:gray"><small>Mar 2017 - Dec 2022</small></span>  
-**Senior research scientist, DNN TTS team lead, [Clova Voice](https://clova.ai/ko), [Naver Corp.](https://www.navercorp.com/en), Seongnam, Korea**  
+**Senior research scientist, Voice Model team lead, [Clova Voice](https://clova.ai/ko), [Naver Corp.](https://www.navercorp.com/en), Seongnam, Korea**  
 <small>
   &nbsp;&nbsp;&bull; Research and development of TTS system combining deep learning and unit-selection TTS models  
   &nbsp;&nbsp;&bull; Implementing cloud-based real-time TTS products for [Clova AI speaker](https://blog.naver.com/clova_ai/221409341851), [Maps navigation](https://blog.naver.com/naver_map/222109060982), and [News anchor](https://blog.naver.com/clova_ai/221981676372)   
 </small>
-
-<span style="color:gray"><small>Aug 2022 - Present</small></span>  
-**Adjunct professor, [Artificial Intelligence Institute](https://aiis.snu.ac.kr/eng/), [SNU](https://en.snu.ac.kr/index.html), Seoul, Korea**  
 
 <span style="color:gray"><small>Aug 2016 - Nov 2016</small></span>  
 **Research Intern, [Qualcomm Technologies Inc.](https://www.qualcomm.com/company?#about), San Diego, CA**  

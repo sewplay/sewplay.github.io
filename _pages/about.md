@@ -15,7 +15,8 @@ I'm a senior research scientist and lead the Voice team at [Naver Cloud](https:/
 
 I received my Ph.D. degree in department of Electrical and Electronics at [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp), Seoul, Korea. During my Ph.D., I served my internships at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), Beijing, China and [Qualcomm Technologies Inc.](https://www.qualcomm.com/company?#about), San Diego, CA.
 
-My research interests include speech synthesis and its real-world applications. Specifically, I develop a hybrid TTS system combining deep learning and unit-selection TTS models for cloud-based products such as [Clova AI speaker](https://blog.naver.com/clova_ai/221409341851), [Clova Dubbing](https://clovadubbing.naver.com/), [Naver Maps navigation](https://blog.naver.com/naver_map/222109060982), and [Naver News anchor](https://blog.naver.com/clova_ai/221981676372).
+My research interests include speech synthesis and its real-world applications. Specifically, I develop a high-quality TTS api for cloud services ([Clova Voice Pro](https://www.ncloud.com/product/aiService/clovaVoice), [Clova Dubbing](https://clovadubbing.naver.com/)),
+an automatic TTS modeling with smartphone recordings ([Voice Maker](https://clovadubbing.naver.com/voicemaker)), and a hybrid TTS system combining deep learning and unit-selection TTS models ([Clova AI speaker](https://blog.naver.com/clova_ai/221409341851), [Naver Maps navigation](https://blog.naver.com/naver_map/222109060982), [Naver News anchor](https://blog.naver.com/clova_ai/221981676372)).
 
 If you are interested in me, feel free to [contact me]({{ base_path }}/contacts.html).
 
@@ -24,12 +25,12 @@ If you are interested in me, feel free to [contact me]({{ base_path }}/contacts.
 ***
 # Recent Publications
 - Pruning self-attention for zero-shot multi-speaker text-to-speech [[paper](https://sewplay.github.io/files/papers/2023/IS_1301.pdf)][[demo](https://hcy71o.github.io/SparseTTS-demo/)]  
-  <small>Hyungchan Yoon, Changhwan Kim, <strong style="color:orange">Eunwoo Song</strong>, Hyun-Wook Yoon , Hong-Goo Kang</small>  
+  <small>Hyungchan Yoon, Changhwan Kim, <strong style="color:orange">Eunwoo Song</strong>, Hyun-Wook Yoon, Hong-Goo Kang</small>  
   <small>Proc. INTERSPEECH, 2023, pp. 4299-4303.</small>  
   
-- Period VITS: Variational inference with explicit pitch modeling for end-to-end emotional speech synthesis [[paper](https://sewplay.github.io/files/papers/2023/IS_1301.pdf)][[demo](https://hcy71o.github.io/SparseTTS-demo/)]  
+- Period VITS: Variational inference with explicit pitch modeling for end-to-end emotional speech synthesis [[paper](https://sewplay.github.io/files/papers/2023/icassp_1241.pdf)][[demo](https://yshira116.github.io/period_vits_demo/)]  
   <small>Yuma Shirahata, Ryuichi Yamamoto, <strong style="color:orange">Eunwoo Song</strong>, Ryo Terashima, Jae-Min Kim, Kentaro Tachibana</small>  
-  <small>Proc. INTERSPEECH, 2023, pp. 4299-4303.</small>  
+  <small>Proc. ICASSP, 2023, pp. 4299-4303.</small>  
   
 - HierSpeech: Bridging the gap between text and speech by hierarchical variational inference using self-supervised representations for speech synthesis [[paper](https://sewplay.github.io/files/papers/2022/neurips_54658.pdf)][[demo](https://sh-lee-prml.github.io/hierspeech-demo/)]  
   <small>Sang-Hoon Lee, Seung-Bin Kim, Ji-Hyun Lee, <strong style="color:orange">Eunwoo Song</strong>, Min-Jae Hwang, Seong-Whan Lee</small>  
@@ -39,16 +40,6 @@ If you are interested in me, feel free to [contact me]({{ base_path }}/contacts.
   <small><strong style="color:orange">Eunwoo Song</strong>, Ryuichi Yamamoto, Ohsung Kwon, Chan-Ho Song, Min-Jae Hwang, Suhyeon Oh, Hyun-Wook Yoon, Jin-Seob Kim, Jae-Min Kim</small>  
   <small>Proc. INTERSPEECH, 2022, pp. 1941-1945.</small>  
   
-- Language model-based emotion prediction methods for emotional speech synthesis systems [[paper](https://sewplay.github.io/files/papers/2022/IS_11133.pdf)][[demo](https://christophyoon.github.io/lmemotiontts/)]  
-  <small>Hyun-Wook Yoon, Ohsung Kwon, Hoyeon Lee, Ryuichi Yamamoto, <strong style="color:orange">Eunwoo Song</strong>, Jae-Min Kim, Min-Jae Hwang</small>   
-  <small>Proc. INTERSPEECH, 2022, pp. 4596-4600.</small>  
-  
-- Cross-speaker emotion transfer for low-resource text-to-speech using non-parallel voice conversion with pitch-shift data augmentation [[paper](https://sewplay.github.io/files/papers/2022/IS_11278.pdf)][[demo](https://ryojerky.github.io/demo_vc-tts-ps/)]  
-  <small>Ryo Terashima, Ryuichi Yamamoto, <strong style="color:orange">Eunwoo Song</strong>, Yuma Shirahata, Hyun-Wook Yoon, Jae-Min Kim, Kentaro Tachibana</small>  
-  <small>Proc. INTERSPEECH, 2022, pp. 3018-3022.</small>   
-  
-  <small>[[See more]]({{ base_path }}/publications/)</small>
-
 *** 
 # Recent Talks
 - Parallel waveform synthesis

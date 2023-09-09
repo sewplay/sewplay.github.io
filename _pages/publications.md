@@ -20,10 +20,10 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 ## 2023
 
 - Pruning self-attention for zero-shot multi-speaker text-to-speech [[paper](https://sewplay.github.io/files/papers/2023/IS_1301.pdf)][[demo](https://hcy71o.github.io/SparseTTS-demo/)]  
-  <small>Hyungchan Yoon, Changhwan Kim, <strong style="color:orange">Eunwoo Song</strong>, Hyun-Wook Yoon , Hong-Goo Kang</small>  
+  <small>Hyungchan Yoon, Changhwan Kim, <strong style="color:orange">Eunwoo Song</strong>, Hyun-Wook Yoon, Hong-Goo Kang</small>  
   <small>Proc. INTERSPEECH, 2023, pp. 4299-4303.</small>  
   
-- Period VITS: Variational inference with explicit pitch modeling for end-to-end emotional speech synthesis [[paper](https://sewplay.github.io/files/papers/2023/IS_1301.pdf)][[demo](https://hcy71o.github.io/SparseTTS-demo/)]  
+- Period VITS: Variational inference with explicit pitch modeling for end-to-end emotional speech synthesis [[paper](https://sewplay.github.io/files/papers/2023/icassp_1241.pdf)][[demo](https://yshira116.github.io/period_vits_demo/)]  
   <small>Yuma Shirahata, Ryuichi Yamamoto, <strong style="color:orange">Eunwoo Song</strong>, Ryo Terashima, Jae-Min Kim, Kentaro Tachibana</small>  
   <small>Proc. ICASSP, 2023, pp. 4299-4303.</small>  
 
