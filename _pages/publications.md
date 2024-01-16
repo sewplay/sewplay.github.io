@@ -17,6 +17,13 @@ author_profile: true
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=H8Of2IIAAAAJ&hl) profile
 
 ***
+## 2024
+- Enhancing multilingual TTS with voice conversion based data augmentation and posterior embedding  
+  <small>Hyun-Wook Yoon, Jin-Seob Kim, Ryuichi Yamamoto, Ryo Terashima, Chan-Ho Song, Jae-Min Kim, <strong style="color:orange">Eunwoo Song</strong></small>  
+  <small>Proc. ICASSP, 2024 (in press).</small>   
+
+
+***
 ## 2023
 
 - Pruning self-attention for zero-shot multi-speaker text-to-speech [[paper](https://sewplay.github.io/files/papers/2023/IS_1301.pdf)][[demo](https://hcy71o.github.io/SparseTTS-demo/)]  

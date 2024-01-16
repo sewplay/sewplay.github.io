@@ -24,6 +24,10 @@ If you are interested in me, feel free to [contact me]({{ base_path }}/contacts.
 
 ***
 # Recent Publications
+- Enhancing multilingual TTS with voice conversion based data augmentation and posterior embedding  
+  <small>Hyun-Wook Yoon, Jin-Seob Kim, Ryuichi Yamamoto, Ryo Terashima, Chan-Ho Song, Jae-Min Kim, <strong style="color:orange">Eunwoo Song</strong></small>  
+  <small>Proc. ICASSP, 2024 (in press).</small>  
+  
 - Pruning self-attention for zero-shot multi-speaker text-to-speech [[paper](https://sewplay.github.io/files/papers/2023/IS_1301.pdf)][[demo](https://hcy71o.github.io/SparseTTS-demo/)]  
   <small>Hyungchan Yoon, Changhwan Kim, <strong style="color:orange">Eunwoo Song</strong>, Hyun-Wook Yoon, Hong-Goo Kang</small>  
   <small>Proc. INTERSPEECH, 2023, pp. 4299-4303.</small>  
@@ -40,8 +44,14 @@ If you are interested in me, feel free to [contact me]({{ base_path }}/contacts.
   <small><strong style="color:orange">Eunwoo Song</strong>, Ryuichi Yamamoto, Ohsung Kwon, Chan-Ho Song, Min-Jae Hwang, Suhyeon Oh, Hyun-Wook Yoon, Jin-Seob Kim, Jae-Min Kim</small>  
   <small>Proc. INTERSPEECH, 2022, pp. 1941-1945.</small>  
   
+  <small>[[See more]]({{ base_path }}/publications/)</small>
+  
 *** 
 # Recent Talks
+- Speech synthesis and applications
+  [[Slides](https://sewplay.github.io/files/talks/2023/20231201_snu.pdf)]  
+  <small>SNU, Dec 2023</small>  
+
 - Parallel waveform synthesis
   [[Slides](https://sewplay.github.io/files/talks/2022/20220913_sr.pdf)]  
   <small>Samsung Research, Sep 2022</small>  
@@ -50,16 +60,4 @@ If you are interested in me, feel free to [contact me]({{ base_path }}/contacts.
   [[Slides](https://sewplay.github.io/files/talks/2022/20220712_naver_tts.pdf)]  
   <small>Naver Engineering Day, Jul 2022</small>  
 
-- Voice synthesis and applications
-  [[Slides](https://sewplay.github.io/files/talks/2022/20220506_kaist_snu_tts.pdf)]  
-  <small>KAIST and SNU, Apr 2022</small>  
-
-- Introduction to text-to-speech
-  [[Slides](https://sewplay.github.io/files/talks/2021/20210422_naver_tts.pdf)]  
-  <small>Naver Engineering Day, Apr 2021</small>  
-
-- Deep learning-based text-to-speech
-  [[Slides](https://sewplay.github.io/files/talks/2021/20210405_ysu_ku_tts.pdf)]  
-  <small>Yonsei Univ. and Korea Univ., Apr 2021</small>  
-  
   <small>[[See more]]({{ base_path }}/talks/)</small>

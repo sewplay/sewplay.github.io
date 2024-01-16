@@ -17,6 +17,12 @@ author_profile: true
 
 ***
 ## 2022
+- Speech synthesis and applications
+  [[Slides](https://sewplay.github.io/files/talks/2023/20231201_snu.pdf)]  
+  <small>SNU, Dec 2023</small>  
+  
+***
+## 2022
 - Parallel waveform synthesis
   [[Slides](https://sewplay.github.io/files/talks/2022/20220913_sr.pdf)]  
   <small>Samsung Research, Sep 2022</small>  
