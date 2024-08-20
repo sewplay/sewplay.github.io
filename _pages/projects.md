@@ -18,7 +18,7 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot; [Clova Voice Pro](https://www.ncloud.com/product/aiService/clovaVoice)  
 </small>
 
-<span style="color:gray"><small>May 2022 - present</small></span>  
+<span style="color:gray"><small>May 2022 - Oct 2023</small></span>  
 **Development of automatic TTS modeling with smartphone recordings**  
 <small> 
 &nbsp;&nbsp;&bull; Role: Management, research and development of DNN TTS models  
@@ -29,7 +29,7 @@ author_profile: true
 ***
 ## Naver Corp., Seongnam, Korea
 
-<span style="color:gray"><small>Mar 2017 - Dec 2023</small></span>  
+<span style="color:gray"><small>Mar 2017 - Dec 2022</small></span>  
 **Hybrid TTS combining deep learning and unit-selection models**  
 <small>
 &nbsp;&nbsp;&bull; Role: Management, research and development of DNN TTS models  

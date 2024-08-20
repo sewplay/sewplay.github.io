@@ -18,10 +18,13 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 ***
 ## 2024
-- Enhancing multilingual TTS with voice conversion based data augmentation and posterior embedding  
+- Enhancing multilingual TTS with voice conversion based data augmentation and posterior embedding [[paper](https://sewplay.github.io/files/papers/2024/icassp_0012186.pdf)][[demo](https://christophyoon.github.io/MMV-TTS/)]  
   <small>Hyun-Wook Yoon, Jin-Seob Kim, Ryuichi Yamamoto, Ryo Terashima, Chan-Ho Song, Jae-Min Kim, <strong style="color:orange">Eunwoo Song</strong></small>  
-  <small>Proc. ICASSP, 2024 (in press).</small>   
+  <small>Proc. ICASSP, 2024, pp. 12186-12190.</small>   
 
+- Unified Speech-Text Pretraining for Spoken Dialog Modeling [[paper](https://arxiv.org/abs/2402.05706)][[demo](https://unifiedsdm.github.io/)]  
+  <small>Heeseung Kim, Soonshin Seo, Kyeongseok Jeong, Ohsung Kwon, Jungwhan Kim, Jaehong Lee, <strong style="color:orange">Eunwoo Song</strong>, Myungwoo Oh, Sungroh Yoon, Kang Min Yoo</small>  
+  <small>arXiv preprint arXiv: 2402.05706, 2024.</small>  
 
 ***
 ## 2023

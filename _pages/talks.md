@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 
 ***
-## 2022
+## 2023
 - Speech synthesis and applications
   [[Slides](https://sewplay.github.io/files/talks/2023/20231201_snu.pdf)]  
   <small>SNU, Dec 2023</small>  

@@ -61,8 +61,8 @@ redirect_from:
 **Reviewer**  
 <small>
   &nbsp;&nbsp;&bull; **Signal Processing Letters** 2023  
-  &nbsp;&nbsp;&bull; **INTERSPEECH** 2020 - 2023  
-  &nbsp;&nbsp;&bull; **ICASSP** 2021 - 2023  
+  &nbsp;&nbsp;&bull; **INTERSPEECH** 2020 - 2024  
+  &nbsp;&nbsp;&bull; **ICASSP** 2021 - 2024  
 </small>
 
 ***
@@ -79,7 +79,10 @@ redirect_from:
 
 ***
 # Patents
-<small>
-  &nbsp;&nbsp;&bull; KR10-2198598, **Method for generating synthesized speech signal, neural vocoder, and training method thereof**, Dec. 2020  
-  &nbsp;&nbsp;&bull; KR10-2198597, **Neural vocoder and training method of neural vocoder for constructing speaker-adaptive model**, Dec. 2020  
+<small>https://doi.org/10.8080/1020220116409?urlappend=en
+  &nbsp;&nbsp;&bull; [KR10-2661751](https://doi.org/10.8080/1020220116409?urlappend=en), **Method and system for generating speech synthesis model based on selective data augmentation**, Apr 2024  
+  &nbsp;&nbsp;&bull; [KR10-2626618](https://doi.org/10.8080/1020220047188?urlappend=en), **Method and system for synthesizing emotional speech based on emotion prediction**, Jan 2024  
+  &nbsp;&nbsp;&bull; [KR10-2621842](https://doi.org/10.8080/1020210115859?urlappend=en), **Method and system for non-autoregressive speech synthesis**, Jan 2024  
+  &nbsp;&nbsp;&bull; [KR10-2198598](https://doi.org/10.8080/1020190004085?urlappend=en), **Method for generating synthesized speech signal, neural vocoder, and training method thereof**, Dec 2020  
+  &nbsp;&nbsp;&bull; [KR10-2198597](https://doi.org/10.8080/1020190004084?urlappend=en), **Neural vocoder and training method of neural vocoder for constructing speaker-adaptive model**, Dec 2020  
 </small>
