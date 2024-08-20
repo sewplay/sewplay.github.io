@@ -23,7 +23,7 @@ redirect_from:
 ***
 # Work Experience
 <span style="color:gray"><small>Jan 2023 - Present</small></span>  
-**Senior research scientist, Voice team lead, [Naver Cloud](https://navercloudcorp.com/lang/en/), Seongnam, Korea**  
+**Senior research scientist, Voice Synthesis team lead, [Naver Cloud](https://navercloudcorp.com/lang/en/), Seongnam, Korea**  
 <small>
   &nbsp;&nbsp;&bull; Research and development of deep learning-based TTS models  
   &nbsp;&nbsp;&bull; Implementing TTS api for cloud services such as [Clova Voice Pro](https://www.ncloud.com/product/aiService/clovaVoice), [Clova Dubbing](https://clovadubbing.naver.com/), and [Voice Maker](https://clovadubbing.naver.com/voicemaker)   
@@ -79,7 +79,7 @@ redirect_from:
 
 ***
 # Patents
-<small>https://doi.org/10.8080/1020220116409?urlappend=en
+<small>
   &nbsp;&nbsp;&bull; [KR10-2661751](https://doi.org/10.8080/1020220116409?urlappend=en), **Method and system for generating speech synthesis model based on selective data augmentation**, Apr 2024  
   &nbsp;&nbsp;&bull; [KR10-2626618](https://doi.org/10.8080/1020220047188?urlappend=en), **Method and system for synthesizing emotional speech based on emotion prediction**, Jan 2024  
   &nbsp;&nbsp;&bull; [KR10-2621842](https://doi.org/10.8080/1020210115859?urlappend=en), **Method and system for non-autoregressive speech synthesis**, Jan 2024  
