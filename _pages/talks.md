@@ -16,6 +16,12 @@ author_profile: true
 {% endfor %}
 
 ***
+## 2025
+- AI Human: Large-scale text-to-speech applications
+  [[Slides](https://sewplay.github.io/files/talks/2025/20250122_snu.pdf)]  
+  <small>SNU, Jan 2025</small>  
+  
+***
 ## 2023
 - Speech synthesis and applications
   [[Slides](https://sewplay.github.io/files/talks/2023/20231201_snu.pdf)]  

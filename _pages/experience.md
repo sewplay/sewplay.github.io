@@ -61,8 +61,8 @@ redirect_from:
 **Reviewer**  
 <small>
   &nbsp;&nbsp;&bull; **Signal Processing Letters** 2023  
-  &nbsp;&nbsp;&bull; **INTERSPEECH** 2020 - 2024  
-  &nbsp;&nbsp;&bull; **ICASSP** 2021 - 2024  
+  &nbsp;&nbsp;&bull; **INTERSPEECH** 2020 - 2025  
+  &nbsp;&nbsp;&bull; **ICASSP** 2021 - 2025  
 </small>
 
 ***
@@ -80,9 +80,11 @@ redirect_from:
 ***
 # Patents
 <small>
-  &nbsp;&nbsp;&bull; [KR10-2661751](https://doi.org/10.8080/1020220116409?urlappend=en), **Method and system for generating speech synthesis model based on selective data augmentation**, Apr 2024  
-  &nbsp;&nbsp;&bull; [KR10-2626618](https://doi.org/10.8080/1020220047188?urlappend=en), **Method and system for synthesizing emotional speech based on emotion prediction**, Jan 2024  
-  &nbsp;&nbsp;&bull; [KR10-2621842](https://doi.org/10.8080/1020210115859?urlappend=en), **Method and system for non-autoregressive speech synthesis**, Jan 2024  
-  &nbsp;&nbsp;&bull; [KR10-2198598](https://doi.org/10.8080/1020190004085?urlappend=en), **Method for generating synthesized speech signal, neural vocoder, and training method thereof**, Dec 2020  
-  &nbsp;&nbsp;&bull; [KR10-2198597](https://doi.org/10.8080/1020190004084?urlappend=en), **Neural vocoder and training method of neural vocoder for constructing speaker-adaptive model**, Dec 2020  
+  &nbsp;&nbsp;&bull; [KR10-2742631](https://doi.org/10.8080/1020230016624), **Method, computer device, and computer program for pruning self-attention for speaker-adaptive text-to-speech system**, Dec 2024  
+  &nbsp;&nbsp;&bull; [KR10-2663162](https://doi.org/10.8080/1020220117469), **Method and system for synthesizing speech**, Apr 2024  
+  &nbsp;&nbsp;&bull; [KR10-2661751](https://doi.org/10.8080/1020220116409), **Method and system for generating speech synthesis model based on selective data augmentation**, Apr 2024  
+  &nbsp;&nbsp;&bull; [KR10-2626618](https://doi.org/10.8080/1020220047188), **Method and system for synthesizing emotional speech based on emotion prediction**, Jan 2024  
+  &nbsp;&nbsp;&bull; [KR10-2621842](https://doi.org/10.8080/1020210115859), **Method and system for non-autoregressive speech synthesis**, Jan 2024  
+  &nbsp;&nbsp;&bull; [KR10-2198598](https://doi.org/10.8080/1020190004085), **Method for generating synthesized speech signal, neural vocoder, and training method thereof**, Dec 2020  
+  &nbsp;&nbsp;&bull; [KR10-2198597](https://doi.org/10.8080/1020190004084), **Neural vocoder and training method of neural vocoder for constructing speaker-adaptive model**, Dec 2020  
 </small>

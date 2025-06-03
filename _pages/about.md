@@ -24,13 +24,17 @@ If you are interested in me, feel free to [contact me]({{ base_path }}/contacts.
 
 ***
 # Recent Publications
+- RapFlow-TTS: Rapid and high-fidelity text-to-speech with improved consistency flow matching [[demo](https://tts-demo.github.io/rap.github.io/)]  
+  <small>Hyun Joon Park, Jeongmin Liu, Jin Sob Kim, Jeong Yeol Yang, Sung Won Han, <strong style="color:orange">Eunwoo Song</strong></small>  
+  <small>Proc. Interspeech, 2025 (in press).</small>  
+  
+- Paralinguistics-aware speech-empowered large language models for natural conversation [[paper](https://sewplay.github.io/files/papers/2024/neurips_7916.pdf)][[demo](https://unifiedsdm.github.io/)]  
+  <small>Heeseung Kim, Soonshin Seo, Kyeongseok Jeong, Ohsung Kwon, Soyoon Kim, Jungwhan Kim, Jaehong Lee, <strong style="color:orange">Eunwoo Song</strong>, Myungwoo Oh, Jung-Woo Ha, Sungroh Yoon, Kang Min Yoo</small>  
+  <small>Proc. NeurIPS, 2024, pp. 131072-131103.</small>  
+  
 - Enhancing multilingual TTS with voice conversion based data augmentation and posterior embedding [[paper](https://sewplay.github.io/files/papers/2024/icassp_0012186.pdf)][[demo](https://christophyoon.github.io/MMV-TTS/)]  
   <small>Hyun-Wook Yoon, Jin-Seob Kim, Ryuichi Yamamoto, Ryo Terashima, Chan-Ho Song, Jae-Min Kim, <strong style="color:orange">Eunwoo Song</strong></small>  
   <small>Proc. ICASSP, 2024, pp. 12186-12190.</small>  
-  
-- Unified Speech-Text Pretraining for Spoken Dialog Modeling [[paper](https://arxiv.org/abs/2402.05706)][[demo](https://unifiedsdm.github.io/)]  
-  <small>Heeseung Kim, Soonshin Seo, Kyeongseok Jeong, Ohsung Kwon, Jungwhan Kim, Jaehong Lee, <strong style="color:orange">Eunwoo Song</strong>, Myungwoo Oh, Sungroh Yoon, Kang Min Yoo</small>  
-  <small>arXiv preprint arXiv: 2402.05706, 2024.</small>  
   
 - Pruning self-attention for zero-shot multi-speaker text-to-speech [[paper](https://sewplay.github.io/files/papers/2023/IS_1301.pdf)][[demo](https://hcy71o.github.io/SparseTTS-demo/)]  
   <small>Hyungchan Yoon, Changhwan Kim, <strong style="color:orange">Eunwoo Song</strong>, Hyun-Wook Yoon, Hong-Goo Kang</small>  
@@ -52,6 +56,10 @@ If you are interested in me, feel free to [contact me]({{ base_path }}/contacts.
   
 *** 
 # Recent Talks
+- AI Human: Large-scale text-to-speech applications
+  [[Slides](https://sewplay.github.io/files/talks/2025/20250122_snu.pdf)]  
+  <small>SNU, Jan 2025</small>  
+
 - Speech synthesis and applications
   [[Slides](https://sewplay.github.io/files/talks/2023/20231201_snu.pdf)]  
   <small>SNU, Dec 2023</small>  
